@@ -9,5 +9,10 @@ namespace Datacap915.Library.NuGet
     public class Class1
     {
         public int fazil;
+
+        void main()
+        {
+            fazil = 10;
+        }
     }
 }
